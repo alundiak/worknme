@@ -6,6 +6,15 @@ Work'n'Me blog (ported from http://worknme.wordpress.com)
 
 * Analyze Pros and Cons of migration, and if all good, do it :)
 
+# Pros
+
+* Markdown syntax, easy and plain text, no wordpress editor pain.
+
+# Cons
+
+* Looks like not possible to embed links from guthub, gistm codepen, jsfiddle, plunkr, etc
+
+
 # Examples / Resources
 
 * https://nodejs.org/api/all.html#documentation_about_this_documentation

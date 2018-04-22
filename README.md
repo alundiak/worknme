@@ -5,6 +5,7 @@ Work'n'Me blog (ported from http://worknme.wordpress.com)
 # TODO
 
 * Analyze Pros and Cons of migration, and if all good, do it :)
+* Use [vuepress](https://vuepress.vuejs.org/)
 
 # Pros
 
@@ -12,7 +13,7 @@ Work'n'Me blog (ported from http://worknme.wordpress.com)
 
 # Cons
 
-* Looks like not possible to embed links from guthub, gistm codepen, jsfiddle, plunkr, etc
+* Looks like not possible to embed links from github, gist, codepen, jsfiddle, plunkr, etc
 
 
 # Examples / Resources

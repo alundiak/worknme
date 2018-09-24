@@ -16,6 +16,11 @@ Work'n'Me blog (ported from http://worknme.wordpress.com)
 * Looks like not possible to embed links from github, gist, codepen, jsfiddle, plunkr, etc
 
 
+# Tech Stack
+- Gatsby
+- Hugo (https://gohugo.io/getting-started/quick-start/)
+- Netlify?
+
 # Examples / Resources
 
 * https://nodejs.org/api/all.html#documentation_about_this_documentation
